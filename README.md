@@ -1,0 +1,2 @@
+# amanatsen
+GitHub Pages
